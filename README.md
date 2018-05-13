@@ -1,14 +1,13 @@
-# ChiFan-MP-V1
-Wechat Mini-program : ChiFan Mini-program
-Version: 1
+# Thanos MP
+Wechat Mini-program 
 
+Example .. how to use LeanCloud and Promises
 
-WX:for with card
+For: Lewagon Chengdu, China
 
-
-![LandingPage](https://github.com/pitipon/Chifan-MP/blob/master/screenshot/Screen%20Shot%202018-05-12%20at%2022.26.51.png)
+![LandingPage](https://github.com/pitipon/Thanos-MP/blob/master/screenshots/Screen%20Shot%202018-05-13%20at%2017.05.40.png)
 
 
 ![IndexPage](https://github.com/pitipon/Chifan-MP/blob/master/screenshot/Screen%20Shot%202018-05-12%20at%2022.27.08.png)
 
-![Detail](https://github.com/pitipon/Chifan-MP/blob/master/screenshot/Screen%20Shot%202018-05-12%20at%2022.27.24.png)
+![Show](https://github.com/pitipon/Chifan-MP/blob/master/screenshot/Screen%20Shot%202018-05-12%20at%2022.27.24.png)
