@@ -1,2 +1,13 @@
 <!--pages/show/show.wxml-->
-<text>pages/show/show.wxml</text>
+<view class="screen">
+    <view class="banner" style="background-image: linear-gradient(-225deg, rgba(0,101,168,0.2) 0%, rgba(0,36,61,0.3) 50%),url({{image_url}});">
+        <view class="banner-content">
+            <view class='title'>Save Universe</view>
+            <text class='teaser'>Bring peace</text>
+        </view>
+      </view>
+</view>
+
+<view class="overlayer">
+    <image src="/assets/images/hand.png"></image>
+</view>

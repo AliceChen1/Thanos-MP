@@ -7,6 +7,7 @@ Page({
 
   onLoad: function (options) {
     console.log(234234,options)
+    this.setData({image_url: options.leanCloudImage})
   },
 
 })

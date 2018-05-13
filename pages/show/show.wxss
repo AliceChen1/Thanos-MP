@@ -1,1 +1,38 @@
-/* pages/show/show.wxss */
+/* pages/landing/landing.wxss */
+
+/* Banner Component */
+.banner {
+    color: white;
+    text-align: center;
+    height: 100vh;
+    /* if you have a 70px navbar => height: calc(100vh - 70px); */
+    background-size: cover !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .title {
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 0px 1px rgba(0, 0, 0, 0.39);
+  }
+  .teaser {
+    font-size: 30px;
+    font-weight: lighter;
+    color: rgb(255, 255, 255);
+    opacity: 0.6;
+    margin-bottom: 30px;
+  }
+  .margin {
+    margin-top: 20px;
+  }
+  /* Banner Component */
+  
+
+  .overlayer{
+
+    position: fixed;
+    bottom: 0vh;
+    right: 0vh;
+    z-index: 9999;
+  }
